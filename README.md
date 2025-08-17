@@ -1,3 +1,1 @@
-# Microapp Counter
-
-Simple click counter (HTML/CSS/JS). Created via n8n.
+# Microapp Counter|Simple click counter (HTML/CSS/JS). Created via n8n v2.
